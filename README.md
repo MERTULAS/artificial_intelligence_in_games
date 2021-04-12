@@ -1,0 +1,2 @@
+# artificial_intelligence_in_games
+Some artificial intelligence algorithms
